@@ -2,6 +2,12 @@
 
 WYSIWYG HTML5-editor: bouw een webpagina door widgets te slepen, met live voorbeeld en export naar gewone HTML of een installeerbare PWA. Alles draait lokaal; de editor zit in dit pakket.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveEdit](https://dravenlock.nl/video/DraveEdit.jpg)](https://dravenlock.nl/video/DraveEdit.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveEdit.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.21.1*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
